@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">animation</string>
+    <string name="translate">Translate</string>
+    <string name="alpha">alpha</string>
+    <string name="a1">a1</string>
+    <string name="a2">a2</string>
+</resources>

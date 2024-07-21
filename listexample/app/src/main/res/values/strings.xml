@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listexample</string>
+    <string name="select_a_id_proof">Select a ID proof</string>
+    <string name="search_here">Search here..</string>
+</resources>

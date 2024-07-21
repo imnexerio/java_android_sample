@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">implicit_call</string>
+    <string name="dial">Dial</string>
+    <string name="message">Message</string>
+    <string name="email">email</string>
+    <string name="share">share</string>
+</resources>
